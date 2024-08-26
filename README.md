@@ -35,8 +35,8 @@ This script processes directories containing `.glb` and `.txt` files to produce 
     {
       "room_id": "1",
       "room_bounding_box": {
-        "min": [0.0, 0.0, 0.0],
-        "max": [10.0, 10.0, 10.0]
+        [0.0, 0.0, 0.0],
+        [10.0, 10.0, 10.0]
       },
       "objects": [
         {
@@ -44,8 +44,8 @@ This script processes directories containing `.glb` and `.txt` files to produce 
           "object_name": "chair",
           "hex_color": "FF5733",
           "bounding_box": {
-            "min": [1.0, 1.0, 1.0],
-            "max": [2.0, 2.0, 2.0]
+            [1.0, 1.0, 1.0],
+            [2.0, 2.0, 2.0]
           }
         },
         ...
